@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7df64b4-f97a-46dd-86a8-cb9ee138ea95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula06_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,28 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.aula06_4">
-    <configuration name="aula05_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DIOPyIntro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula05_0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aula7_1">
     <configuration name="aula06_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIOPyIntro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,13 +116,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIOPyIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula7_1" />
         <item itemvalue="Python.aula06_4" />
         <item itemvalue="Python.aula06_3" />
         <item itemvalue="Python.aula06_2" />
         <item itemvalue="Python.aula06_1" />
-        <item itemvalue="Python.aula05_0" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647204398074</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Aula 6 - part 4">
+      <created>1647204761653</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647204761653</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,29 +256,30 @@
     <MESSAGE value="Aula 6 - part 1" />
     <MESSAGE value="Aula 6 - part 2" />
     <MESSAGE value="Aula 6 - part 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 - part 3" />
+    <MESSAGE value="Aula 6 - part 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 - part 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1647204394561">
+    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1647205281423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647204394561" />
-    <state width="1509" height="185" key="GridCell.Tab.0.bottom" timestamp="1647204738710">
+    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647205281423" />
+    <state width="1509" height="185" key="GridCell.Tab.0.bottom" timestamp="1647205257439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647204738710" />
-    <state width="1509" height="185" key="GridCell.Tab.0.center" timestamp="1647204738709">
+    <state width="1509" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647205257439" />
+    <state width="1509" height="185" key="GridCell.Tab.0.center" timestamp="1647205257439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="185" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647204738709" />
-    <state width="1509" height="185" key="GridCell.Tab.0.left" timestamp="1647204738708">
+    <state width="1509" height="185" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647205257439" />
+    <state width="1509" height="185" key="GridCell.Tab.0.left" timestamp="1647205257438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="185" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647204738708" />
-    <state width="1509" height="185" key="GridCell.Tab.0.right" timestamp="1647204738709">
+    <state width="1509" height="185" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647205257438" />
+    <state width="1509" height="185" key="GridCell.Tab.0.right" timestamp="1647205257439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="185" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647204738709" />
+    <state width="1509" height="185" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1647205257439" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1647198063866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
