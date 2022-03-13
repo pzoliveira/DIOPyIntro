@@ -8,4 +8,10 @@ for nbr in list_str:
     print(nbr)
 list_str[0] = 'uno'
 list_str[1] = 'tres'
-print(list_str)
+list_str.reverse()
+list_str.append('drei')
+list_str.append('eins')
+list_str.pop(0)
+list_str.remove('un')
+tuple_str = tuple(list_str)
+print(tuple_str, len(list_int))
