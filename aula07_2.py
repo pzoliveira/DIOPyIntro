@@ -16,9 +16,10 @@ class Calculator:
         return self.avalue / self.bvalue
 
 
-calc = Calculator(10, 2)
-print('a value = {}\nb value = {}'.format(calc.avalue, calc.bvalue))
-print(calc.sums())
-print(calc.subtr())
-print(calc.mult())
-print(calc.div())
+if __name__ == '__main__':
+    calc = Calculator(10, 2)
+    print('a value = {}\nb value = {}'.format(calc.avalue, calc.bvalue))
+    print(calc.sums())
+    print(calc.subtr())
+    print(calc.mult())
+    print(calc.div())

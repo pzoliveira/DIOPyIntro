@@ -11,9 +11,9 @@ class Calculator:
     def div(self, avalue, bvalue):
         return avalue / bvalue
 
-
-calc = Calculator()
-print(calc.sums(10, 2))
-print(calc.subtr(10, 2))
-print(calc.mult(10, 2))
-print(calc.div(10, 2))
+if __name__ == '__main__':
+    calc = Calculator()
+    print(calc.sums(10, 2))
+    print(calc.subtr(10, 2))
+    print(calc.mult(10, 2))
+    print(calc.div(10, 2))
