@@ -24,10 +24,11 @@ class Television:
         print('TV channel: {}'.format(self.chnlnbr))
 
 
-tv = Television()
-tv.power()
-tv.power()
-tv.power()
-tv.chnlpls()
-tv.chnlpls()
-tv.chnlmns()
+if __name__ == '__main__':
+    tv = Television()
+    tv.power()
+    tv.power()
+    tv.power()
+    tv.chnlpls()
+    tv.chnlpls()
+    tv.chnlmns()
